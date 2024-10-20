@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.example.tdeWeb"},{"l":"com.example.tdeWeb.api.controler"},{"l":"com.example.tdeWeb.api.model"},{"l":"com.example.tdeWeb.api.service"}];updateSearchResults();
